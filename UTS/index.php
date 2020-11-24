@@ -17,7 +17,7 @@
 $nomor           = array("1","2","3");
 $nama_pemain     = array("Cristiano Messi","Bejo Leonardo","Alfa Midi");
 $tinggi_badan    = array("180","167","190");
-$posisi          = array("Streaker","Midfielder","Defender"); 
+$posisi          = array("Striker","Midfielder","Defender"); 
 
 $no = count($nomor);
  
